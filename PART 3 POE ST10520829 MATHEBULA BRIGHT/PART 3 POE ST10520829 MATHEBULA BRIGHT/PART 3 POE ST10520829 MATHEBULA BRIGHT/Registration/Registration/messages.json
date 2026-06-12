@@ -1,0 +1,18 @@
+[
+    {
+        "MessageID": "m000000001",
+        "Recipient": "+27698438644",
+        "Message": "hello",
+        "Hash": "01:1HELLOHELLO",
+        "Sent": true,
+        "Stored": false
+    },
+    {
+        "MessageID": "m000000002",
+        "Recipient": "+27698438644",
+        "Message": "how are doing",
+        "Hash": "02:2HOWDOING",
+        "Sent": true,
+        "Stored": false
+    }
+]
